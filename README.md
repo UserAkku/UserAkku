@@ -1,4 +1,4 @@
-## Hi there 👋
+[![An image of @userakku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/userakku)](https://holopin.io/@userakku)
 
 <!--
 **UserAkku/UserAkku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
