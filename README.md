@@ -1,28 +1,144 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!--              AKHILESH KUMAR — GitHub README             -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#0a0800"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="smallglow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect width="900" height="280"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- Ambient glow blob -->
+  <ellipse cx="450" cy="140" rx="260" ry="100" fill="#f59e0b" opacity="0.04" filter="url(#softglow)">
+    <animate attributeName="opacity" values="0.03;0.07;0.03" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="260;300;260" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Horizontal scan lines -->
+  <rect width="900" height="1" y="60"  fill="#f59e0b" opacity="0.04"/>
+  <rect width="900" height="1" y="120" fill="#f59e0b" opacity="0.04"/>
+  <rect width="900" height="1" y="180" fill="#f59e0b" opacity="0.04"/>
+  <rect width="900" height="1" y="240" fill="#f59e0b" opacity="0.04"/>
+
+  <!-- Top border line with animation -->
+  <line x1="0" y1="1" x2="900" y2="1" stroke="#f59e0b" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <line x1="0" y1="279" x2="900" y2="279" stroke="#f59e0b" stroke-width="1.5" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Corner brackets -->
+  <polyline points="8,30 8,8 30,8"   fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.9"/>
+  <polyline points="870,8 892,8 892,30"  fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.9"/>
+  <polyline points="8,250 8,272 30,272"  fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.9"/>
+  <polyline points="870,272 892,272 892,250" fill="none" stroke="#f59e0b" stroke-width="2.5" opacity="0.9"/>
+
+  <!-- Small decorative dots top row -->
+  <circle cx="440" cy="32" r="1.5" fill="#f59e0b" opacity="0.5"/>
+  <circle cx="450" cy="32" r="1.5" fill="#f59e0b" opacity="0.8"/>
+  <circle cx="460" cy="32" r="1.5" fill="#f59e0b" opacity="0.5"/>
+
+  <!-- MAIN NAME — with pulse glow -->
+  <text x="450" y="138"
+        text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="62"
+        font-weight="bold"
+        letter-spacing="6"
+        fill="#f59e0b"
+        filter="url(#glow)"
+        clip-path="url(#clip)">
+    AKHILESH KUMAR
+    <animate attributeName="opacity" values="0.9;1;0.85;1;0.9" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="178"
+        text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="13"
+        letter-spacing="5"
+        fill="#78716c">
+    FULLSTACK  ·  AI BUILDER  ·  PRODUCT THINKER
+  </text>
+
+  <!-- Animated dot wave at bottom -->
+  <circle cx="360" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="380" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="440" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="460" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="1.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="480" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="222" r="2.5" fill="#f59e0b" filter="url(#smallglow)">
+    <animate attributeName="opacity" values="0;1;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:0f0a00,100:1a1000&height=200&section=header&text=AKHILESH%20KUMAR&fontSize=65&fontColor=f59e0b&fontAlignY=70&fontAlign=75&desc=I%20build%20things%20that%20think.&descFontSize=18&descFontColor=78716c&descAlign=72&descAlignY=88&rotate=-5" width="100%"/>
-</div>
+
+![header](https://raw.githubusercontent.com/UserAkku/UserAkku/main/header.svg)
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=F59E0B&center=true&vCenter=true&width=650&lines=Full+Stack+%E2%86%92+Next.js+%7C+MERN+%7C+TypeScript;AI+Builder+%E2%86%92+RAG+%7C+LangGraph+%7C+Agents;Automator+%E2%86%92+n8n+%7C+Python+%7C+Pipelines;Analyst+%E2%86%92+Tableau+%7C+Looker+%7C+SQL;Marketeer+%E2%86%92+Technical+SEO+%7C+Growth;Currently+%E2%86%92+Building+things+no+one+asked+for+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1500&color=F59E0B&center=true&vCenter=true&width=600&lines=Next.js+%7C+TypeScript+%7C+MERN+%7C+Tailwind;LangChain+%7C+LangGraph+%7C+RAG+%7C+Agentic+AI;n8n+Automations+%7C+Python+%7C+Prisma;Tableau+%7C+Looker+Studio+%7C+Technical+SEO;building+things+no+one+asked+for+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/akhilesh-kumar-736794313/"><img src="https://img.shields.io/badge/LinkedIn-f59e0b?style=for-the-badge&logo=linkedin&logoColor=000"/></a>
-&nbsp;
-<a href="https://github.com/UserAkku"><img src="https://img.shields.io/badge/GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=000"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=UserAkku&style=for-the-badge&color=f59e0b&labelColor=000&label=PROFILE+VIEWS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-f59e0b?style=flat-square&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/akhilesh-kumar-736794313/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-f59e0b?style=flat-square&logo=github&logoColor=000)](https://github.com/UserAkku)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=UserAkku&style=flat-square&color=f59e0b&labelColor=000000&label=views)
 
-<br/><br/>
+<br/>
 
-[![An image of @userakku's Holopin badges](https://holopin.me/userakku)](https://holopin.io/@userakku)
+[![Holopin Badges](https://holopin.me/userakku)](https://holopin.io/@userakku)
 
 </div>
 
@@ -30,157 +146,70 @@
 
 ---
 
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║         WHO AM I            ║  -->
-<!--  ╚══════════════════════════════╝  -->
+Not your average dev.
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I write code, wire up AI agents, automate pipelines with n8n, read data in Tableau & Looker, think in systems, and still care about whether the button looks right on mobile. 6 months at **Nocage** taught me that the best engineers think like product people — you're not done when it compiles, you're done when it *works for a human*.
 
-### `{ about_me }`
-
-Not just another dev with a portfolio.
-
-I'm someone who builds **fullstack products**, wires up **AI agents that actually work**, automates workflows with **n8n**, reads data in **Tableau & Looker Studio**, understands **what users want** from a growth & SEO lens — and ties all of it together into something that *ships*.
-
-6 months at **Nocage** taught me one thing most devs miss early on:
-
-> *The best code solves a business problem. Everything else is just syntax.*
-
-Currently obsessed with:
-- Agentic AI systems that don't hallucinate
-- Building ideas fast and figuring out what sticks
-- Understanding Web3 from first principles
-- System design that won't collapse at 10x traffic
-
-<br clear="right"/>
+Right now I'm deep in **Web3**, building fast on new ideas, and figuring out how agentic AI actually breaks in production. Too many side projects. Not enough hours. Perfect.
 
 ---
 
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║           ARSENAL           ║  -->
-<!--  ╚══════════════════════════════╝  -->
-
-### `{ arsenal }`
+### stack
 
 <div align="center">
 
-**— web & frontend —**
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,tailwind,python,git&theme=dark&perline=6"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark&perline=7"/>
-
-**— backend & databases —**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,python&theme=dark&perline=6"/>
-
-**— AI · automation · data —**
-
-<img src="https://skillicons.dev/icons?i=langchain,pytorch,figma,linux,git,github&theme=dark&perline=6"/>
-
-`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `RAG Pipelines` &nbsp;·&nbsp; `Agentic AI` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Tableau` &nbsp;·&nbsp; `Looker Studio`
-
-**— craft beyond code —**
-
-`Technical SEO` &nbsp;·&nbsp; `Digital Marketing` &nbsp;·&nbsp; `Competitor Analysis` &nbsp;·&nbsp; `Growth Research` &nbsp;·&nbsp; `UX Thinking`
+`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Agentic AI` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Tableau` &nbsp;·&nbsp; `Looker Studio` &nbsp;·&nbsp; `Technical SEO`
 
 </div>
 
 ---
 
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║           WORK              ║  -->
-<!--  ╚══════════════════════════════╝  -->
+### work
 
-### `{ work }`
+**Nocage** *(formerly BridgeIn)* &nbsp;—&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `6 months`
 
+Built production pages in **Next.js + TypeScript**. Owned **Technical SEO** end-to-end — architecture, Core Web Vitals, crawlability. Pushed UI/UX quality on live features. Then stepped outside the codebase: ran competitor analysis, mapped growth strategies, studied user behaviour. Learned that shipping code is the easy part.
+
+---
+
+### projects
+
+> *pinned below — go look 👇*
+
+<div align="center">
 <table>
 <tr>
-<td>
+<td align="center" width="50%">
 
-```
-  ┌─────────────────────────────────────────────────────┐
-  │  🏢  Nocage  (formerly BridgeIn)                    │
-  │  Role  →  Full Stack Developer Intern               │
-  │  Span  →  6 months  |  Production. Real users.      │
-  └─────────────────────────────────────────────────────┘
-```
+**[Project Name ↗](https://github.com/UserAkku/repo-1)**
+`Next.js` `TypeScript` `MongoDB`
+<br/><sub>one line — what problem it solves</sub>
+
+</td>
+<td align="center" width="50%">
+
+**[Project Name ↗](https://github.com/UserAkku/repo-2)**
+`LangGraph` `RAG` `Python` `n8n`
+<br/><sub>one line — what problem it solves</sub>
 
 </td>
 </tr>
-</table>
-
-<details>
-<summary><b>▶ &nbsp; What I actually did there (click to expand)</b></summary>
-
-<br/>
-
-**On the tech side:**
-- Built & maintained production pages in **Next.js + TypeScript** — not sandbox, real traffic
-- Deep-dived into **Technical SEO**: site architecture, Core Web Vitals, crawl budgets, metadata strategy
-- Cared about pixels — pushed for **UI/UX quality** that users feel but never consciously notice
-- Shipped **feature updates** in a live codebase with proper PR reviews, branches, discipline
-
-**Beyond the code:**
-- Researched **growth & marketing strategies** — go-to-market thinking, content positioning
-- Ran structured **competitor analysis** to understand market gaps
-- Studied **user behavior & market needs** — not just "what do users click" but *why*
-
-*Walked in a developer. Walked out a product thinker.*
-
-</details>
-
----
-
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║          PROJECTS           ║  -->
-<!--  ╚══════════════════════════════╝  -->
-
-### `{ projects }`
-
-> *The work speaks. Go check the pinned repos below 👇*
-
-<div align="center">
-<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**🔴 &nbsp;[Project One](https://github.com/UserAkku/repo-1)**
-```
-→ What does it solve?
-→ Who is it for?
-```
-`Next.js` `TypeScript` `MongoDB` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-**🟡 &nbsp;[Project Two](https://github.com/UserAkku/repo-2)**
-```
-→ What does it solve?
-→ Who is it for?
-```
-`LangChain` `RAG` `Python` `n8n`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🟢 &nbsp;[Project Three](https://github.com/UserAkku/repo-3)**
-```
-→ What does it solve?
-→ Who is it for?
-```
+**[Project Name ↗](https://github.com/UserAkku/repo-3)**
 `React` `Node.js` `PostgreSQL` `Prisma`
+<br/><sub>one line — what problem it solves</sub>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-**🔵 &nbsp;[Project Four](https://github.com/UserAkku/repo-4)**
-```
-→ What does it solve?
-→ Who is it for?
-```
-`LangGraph` `Agents` `Express` `MongoDB`
+**[Project Name ↗](https://github.com/UserAkku/repo-4)**
+`Next.js` `LangChain` `MongoDB`
+<br/><sub>one line — what problem it solves</sub>
 
 </td>
 </tr>
@@ -189,81 +218,32 @@ Currently obsessed with:
 
 ---
 
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║       SYSTEM DESIGN         ║  -->
-<!--  ╚══════════════════════════════╝  -->
-
-<details>
-<summary><b>🏗️ &nbsp; System Design Brain (click to open)</b></summary>
-
-<br/>
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    HOW I THINK ABOUT SYSTEMS                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  LLD  ──  SOLID Principles                                    ║
-║        ──  Design Patterns (Factory, Observer, Strategy...)   ║
-║        ──  OOP that actually models the real world            ║
-║        ──  Clean interfaces. Testable code.                   ║
-║                                                               ║
-║  HLD  ──  When to scale. When NOT to.                         ║
-║        ──  Load balancing · Caching (Redis) · CDNs            ║
-║        ──  DB sharding · Replication · Indexing               ║
-║        ──  Message queues · Event-driven patterns             ║
-║                                                               ║
-║  AI   ──  RAG architecture · Vector DBs · Chunking            ║
-║   SYS  ──  Agent orchestration · Memory · Tool use            ║
-║        ──  LangGraph flows · Multi-agent patterns             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
----
-
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║           STATS             ║  -->
-<!--  ╚══════════════════════════════╝  -->
-
-### `{ numbers }`
+### activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f59e0b&text_color=a3a3a3&icon_color=f59e0b&bg_color=0a0a0a&ring_color=f59e0b" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=dark&hide_border=true&title_color=f59e0b&text_color=a3a3a3&bg_color=0a0a0a" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UserAkku&bg_color=000000&color=f59e0b&line=f59e0b&point=ffffff&area=true&hide_border=true&area_color=140d00&radius=6" width="96%"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=UserAkku&theme=dark&hide_border=true&background=0a0a0a&stroke=f59e0b&ring=f59e0b&fire=ef4444&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=52525b" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UserAkku&bg_color=0a0a0a&color=f59e0b&line=f59e0b&point=ef4444&area=true&hide_border=true&area_color=1a0f00" width="94%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&hide_border=true&bg_color=000000&title_color=f59e0b&text_color=78716c&icon_color=f59e0b&include_all_commits=true&count_private=true" height="150"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=UserAkku&hide_border=true&background=000000&stroke=f59e0b&ring=f59e0b&fire=ef4444&currStreakLabel=f59e0b&sideLabels=78716c&dates=52525b" height="150"/>
 
 </div>
 
 ---
 
-<!--  ╔══════════════════════════════╗  -->
-<!--  ║           FOOTER            ║  -->
-<!--  ╚══════════════════════════════╝  -->
-
 <div align="center">
-
 <br/>
 
 ```
-"Most people wait for the right moment.
- I just start building and figure it out."
-                                — probably me, 2am
+"most people wait for the right moment.
+ i just start building."
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1000,50:0f0a00,100:000000&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=28&fontColor=f59e0b&fontAlign=40&fontAlignY=70&rotate=5" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=shark&color=000000&height=60&section=footer&reversal=true)
 
 </div>
