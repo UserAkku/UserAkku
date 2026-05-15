@@ -1,166 +1,140 @@
 [![An image of @userakku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/userakku)](https://holopin.io/@userakku)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akhilesh%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20System%20Design&descAlignY=58&descSize=18&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=Akhilesh%20Kumar&fontSize=54&fontColor=e2e8f0&fontAlignY=40&desc=builder.%20thinker.%20debugger%20of%20life.&descAlignY=62&descSize=16&descColor=64748b&animation=fadeIn" width="100%"/>
+
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kumar-736794313/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UserAkku)
-[![Profile Views](https://komarev.com/ghpvc/?username=UserAkku&style=for-the-badge&color=302b63&label=PROFILE+VIEWS)](https://github.com/UserAkku)
+```bash
+$ whoami
+→ full-stack dev who went too deep into gen ai and never came back
+→ ex-intern @ Nocage (formerly BridgeIn) | 6 months of shipping real stuff
+→ currently: drowning in DSA, peeking at Web3, building things nobody asked for
+```
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/_%40akhilesh__kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/akhilesh-kumar-736794313/)&ensp;
+[![GitHub](https://img.shields.io/badge/_UserAkku-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=0d0d0d)](https://github.com/UserAkku)&ensp;
+![Visitors](https://komarev.com/ghpvc/?username=UserAkku&style=flat-square&color=0f3460&label=visitors)
 
 </div>
 
 ---
 
-## 👋 About Me
+## `// the stack`
 
-```js
-const akhilesh = {
-  role      : "Full Stack Developer",
-  stack     : ["MongoDB", "Express.js", "React", "Node.js", "Next.js"],
-  design    : ["LLD", "HLD", "System Design"],
-  learning  : "Scalable distributed systems & DSA",
-  experience: "6 months internship @ Full Stack Development",
-  openTo    : "SDE roles | Full Stack | Backend",
-};
-```
+I don't just know a framework — I know *why* it exists. Here's what I actually work with:
 
-- 🔭 Building production-grade full-stack applications with **MERN & Next.js**
-- 🧠 Strong understanding of **Low-Level Design (LLD)** — design patterns, SOLID principles, OOP
-- 🏗️ Decent grasp of **High-Level Design (HLD)** — scalability, load balancing, caching, microservices
-- 💼 Completed a **6-month Full Stack Internship**, working on real-world features end-to-end
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/akhilesh-kumar-736794313/)
+**Fullstack & Web**
+&emsp;`Next.js` &ensp;`React` &ensp;`TypeScript` &ensp;`Node.js` &ensp;`Express.js` &ensp;`Tailwind CSS` &ensp;`JavaScript`
 
----
+**Databases & ORM**
+&emsp;`MongoDB` &ensp;`PostgreSQL` &ensp;`Prisma` &ensp;`Mongoose`
 
-## 🛠️ Tech Stack
+**AI / Automation Layer** ← *this is where it gets interesting*
+&emsp;`LangChain` &ensp;`LangGraph` &ensp;`RAG Pipelines` &ensp;`Agentic AI` &ensp;`n8n` &ensp;`Python`
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Data & Analytics**
+&emsp;`Excel` &ensp;`Tableau` &ensp;`Looker Studio`
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Craft**
+&emsp;`System Design (LLD + HLD)` &ensp;`Technical SEO` &ensp;`Digital Marketing` &ensp;`Competitor Analysis`
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Figuring Out Right Now**
+&emsp;`DSA (deep mode 🧠)` &ensp;`Web3 (curious mode 👀)` &ensp;`Distributed Systems`
 
 ---
 
-## 💼 Experience
+## `// where i've shipped`
 
-### Full Stack Developer Intern
-> 📅 6 Months &nbsp;|&nbsp; 🏢 [Company Name] &nbsp;|&nbsp; 📍 [Location / Remote]
+### Nocage *(formerly BridgeIn)* — Full Stack Developer Intern
+`6 months` &ensp;·&ensp; Production environment &ensp;·&ensp; Real users. Real stakes.
 
-- Developed and maintained full-stack features using **Node.js, Express, React & MongoDB**
-- Built RESTful APIs consumed by frontend React applications
-- Collaborated with senior developers on system design decisions and database modeling
-- Participated in code reviews, sprint planning, and agile workflows
+> Walked in thinking I knew Next.js. Walked out knowing I *really* know Next.js.
+
+What I actually did there:
+
+- Owned and shipped **website pages end-to-end** in Next.js + TypeScript — not tutorial projects, actual production code
+- Went deep into **Technical SEO** — site structure, crawlability, Core Web Vitals, metadata strategy, the whole thing
+- Obsessed over **UI/UX** — if it felt off, I fixed it. That's not a flex, that's a standard I set for myself
+- Contributed to **feature updates** in a live codebase with real version control discipline
+- Went beyond dev: researched **growth strategies**, ran **competitor analysis**, helped decode **user behaviour & market positioning**
+- Understood that good tech + zero business sense = nothing ships
+
+*This internship taught me that the best engineers understand the product, not just the code.*
 
 ---
 
-## 🏗️ System Design Knowledge
+## `// what i'm building`
+
+I'm in that phase where I have too many ideas and not enough hours.
+New concept → prototype → ship → learn → repeat. That's the current operating mode.
+
+Projects section *(pinned below 👇)* — go look, they speak louder than bullet points.
+
+---
+
+## `// the system design corner`
 
 ```
-📐 LLD (Low-Level Design)
-   ├── SOLID Principles
-   ├── Design Patterns (Singleton, Factory, Observer, Strategy...)
-   ├── OOP Concepts (Abstraction, Encapsulation, Polymorphism, Inheritance)
-   └── Class Diagrams & Entity Modeling
+Low-Level Design
+├── SOLID Principles — not just memorized, actually applied
+├── Design Patterns — Singleton, Factory, Observer, Strategy, Repository...
+├── OOP depth — abstraction, polymorphism, real modelling
+└── Class diagrams, entity relationships, clean interfaces
 
-🌐 HLD (High-Level Design)
-   ├── Monolith vs Microservices
-   ├── Load Balancing & Horizontal Scaling
-   ├── Caching Strategies (Redis)
-   ├── Database Sharding & Replication
-   └── Message Queues & Event-Driven Architecture (basics)
+High-Level Design
+├── Monolith → Microservices (and when NOT to migrate)
+├── Load balancing, horizontal scaling, CDN
+├── Caching — Redis, strategies, invalidation headaches
+├── DB design — sharding, replication, indexing
+└── Message queues, event-driven patterns (going deeper every week)
 ```
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- ===== PROJECT 1 ===== -->
-### 🔗 [Project Name 1](https://github.com/UserAkku/repo-name-1)
-> *Short one-liner about what it does*
-
-- **Tech:** React · Node.js · Express · MongoDB
-- **Highlights:** [e.g., JWT auth, real-time updates, REST APIs]
-
-<!-- ===== PROJECT 2 ===== -->
-### 🔗 [Project Name 2](https://github.com/UserAkku/repo-name-2)
-> *Short one-liner about what it does*
-
-- **Tech:** Next.js · Node.js · MongoDB · TailwindCSS
-- **Highlights:** [e.g., SSR, API routes, responsive UI]
-
-<!-- ===== PROJECT 3 ===== -->
-### 🔗 [Project Name 3](https://github.com/UserAkku/repo-name-3)
-> *Short one-liner about what it does*
-
-- **Tech:** React · Express · MongoDB
-- **Highlights:** [e.g., user authentication, CRUD operations, REST API]
-
-> 📌 *Check pinned repositories below for live demos & code!*
-
----
-
-## 📊 GitHub Stats
+## `// numbers`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=e2e8f0&text_color=94a3b8&icon_color=0f3460" height="160"/>
+&ensp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=github_dark&hide_border=true&title_color=e2e8f0&text_color=94a3b8" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UserAkku&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=UserAkku&theme=github-dark-blue&hide_border=true&stroke=0f3460&ring=e2e8f0&fire=f97316&currStreakLabel=94a3b8" height="160"/>
 
 </div>
 
 ---
 
-## 🎯 Currently
+## `// current state`
 
-- 📖 Deep-diving into **DSA** for interviews
-- 🧩 Exploring **Redis caching** and **microservices patterns**
-- 🛠️ Building projects that demonstrate scalable backend architecture
+```js
+while (alive) {
+  solve(DSA);                         // daily. no skips.
+  design(systems, { depth: "HLD+LLD" });
+  explore("Web3");                    // early days, eyes open
+  build(randomProjectIdea);           // because waiting is boring
+  learn(GenAI, { tools: ["LangGraph", "n8n", "RAG"] });
+}
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+*"Ship first. Refactor later. Learn always."*
 
-⭐ *If you find my work helpful, consider starring my repos!*
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,60:16213e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
-<!--
-**UserAkku/UserAkku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
