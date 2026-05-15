@@ -1,125 +1,192 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/UserAkku/UserAkku/main/header.svg)
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1500&color=F59E0B&center=true&vCenter=true&width=600&lines=Next.js+%7C+TypeScript+%7C+MERN+%7C+Tailwind;LangChain+%7C+LangGraph+%7C+RAG+%7C+Agentic+AI;n8n+Automations+%7C+Python+%7C+Prisma;Tableau+%7C+Looker+Studio+%7C+Technical+SEO;building+things+no+one+asked+for+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-f59e0b?style=flat-square&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/akhilesh-kumar-736794313/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-f59e0b?style=flat-square&logo=github&logoColor=000)](https://github.com/UserAkku)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=UserAkku&style=flat-square&color=f59e0b&labelColor=000000&label=views)
-
-<br/>
-
-[![Holopin Badges](https://holopin.me/userakku)](https://holopin.io/@userakku)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=Akhilesh%20Kumar&fontSize=52&fontColor=e94560&fontAlignY=38&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20System%20Thinker&descAlignY=60&descSize=17&descColor=a8b2d8" width="100%"/>
 
 </div>
 
-<br/>
-
----
-
-Not your average dev.
-
-I write code, wire up AI agents, automate pipelines with n8n, read data in Tableau & Looker, think in systems, and still care about whether the button looks right on mobile. 6 months at **Nocage** taught me that the best engineers think like product people — you're not done when it compiles, you're done when it *works for a human*.
-
-Right now I'm deep in **Web3**, building fast on new ideas, and figuring out how agentic AI actually breaks in production. Too many side projects. Not enough hours. Perfect.
-
----
-
-### stack
+```
+  $ whoami
+  > akhilesh — full stack dev who codes at night, ships in production, and
+    thinks in systems. currently breaking things with Gen AI & Web3.
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express&theme=dark&perline=6"/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,tailwind,python,git&theme=dark&perline=6"/>
-
-`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `Agentic AI` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Tableau` &nbsp;·&nbsp; `Looker Studio` &nbsp;·&nbsp; `Technical SEO`
-
-</div>
-
----
-
-### work
-
-**Nocage** *(formerly BridgeIn)* &nbsp;—&nbsp; Full Stack Developer Intern &nbsp;·&nbsp; `6 months`
-
-Built production pages in **Next.js + TypeScript**. Owned **Technical SEO** end-to-end — architecture, Core Web Vitals, crawlability. Pushed UI/UX quality on live features. Then stepped outside the codebase: ran competitor analysis, mapped growth strategies, studied user behaviour. Learned that shipping code is the easy part.
-
----
-
-### projects
-
-> *pinned below — go look 👇*
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**[Project Name ↗](https://github.com/UserAkku/repo-1)**
-`Next.js` `TypeScript` `MongoDB`
-<br/><sub>one line — what problem it solves</sub>
-
-</td>
-<td align="center" width="50%">
-
-**[Project Name ↗](https://github.com/UserAkku/repo-2)**
-`LangGraph` `RAG` `Python` `n8n`
-<br/><sub>one line — what problem it solves</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**[Project Name ↗](https://github.com/UserAkku/repo-3)**
-`React` `Node.js` `PostgreSQL` `Prisma`
-<br/><sub>one line — what problem it solves</sub>
-
-</td>
-<td align="center" width="50%">
-
-**[Project Name ↗](https://github.com/UserAkku/repo-4)**
-`Next.js` `LangChain` `MongoDB`
-<br/><sub>one line — what problem it solves</sub>
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-### activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UserAkku&bg_color=000000&color=f59e0b&line=f59e0b&point=ffffff&area=true&hide_border=true&area_color=140d00&radius=6" width="96%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&hide_border=true&bg_color=000000&title_color=f59e0b&text_color=78716c&icon_color=f59e0b&include_all_commits=true&count_private=true" height="150"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kumar-736794313/)
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=UserAkku&hide_border=true&background=000000&stroke=f59e0b&ring=f59e0b&fire=ef4444&currStreakLabel=f59e0b&sideLabels=78716c&dates=52525b" height="150"/>
+[![GitHub](https://img.shields.io/badge/-@UserAkku-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/UserAkku)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=UserAkku&style=flat-square&color=e94560&label=views)
 
 </div>
 
 ---
 
+### `> about.exe`
+
+I'm a full-stack developer who doesn't just write code — I think about **why** it's written that way. I care about clean architecture, user-facing impact, and shipping things that actually work.
+
+- 🔩 Comfortable across the entire stack — from Prisma schemas to React components
+- 🤖 Actively building with **Gen AI** — RAG pipelines, LangChain, LangGraph, Agentic workflows
+- 📊 Can turn raw data into insights — **Tableau, Looker Studio, Excel**
+- 🔍 Understand both the **tech and business side** — digital marketing, technical SEO, growth
+- ⛓️ Exploring **Web3** — trying to actually understand it, not just the hype
+- 🧠 Currently going deep on **DSA + System Design** and building projects on whatever idea hits me
+
+---
+
+### `> internship --company="Nocage (formerly BridgeIn)"`
+
+**Full Stack Developer Intern · 6 Months**
+
+> Worked on a real production codebase — not just bug fixes, actual ownership.
+
+**Engineering side:**
+- Built and maintained website pages with **Next.js & TypeScript** in a live product
+- Improved **Technical SEO** — site structure, meta, performance, crawlability
+- Worked on UI/UX improvements that directly impacted end users
+- Shipped feature updates and contributed to frontend architecture decisions
+- Got a real taste of production-level development — deploy, break, fix, repeat
+
+**Beyond the code:**
+- Researched marketing and growth strategies for the product
+- Performed competitor analysis to understand market positioning
+- Dug into user behavior and needs — bridging the gap between tech and business
+
+> This internship taught me that great products need both sharp engineering and sharp thinking about *why* you're building them.
+
+---
+
+### `> skills --list-all`
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Gen AI & Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-7B2FBE?style=flat-square&logoColor=white)
+
+**Data & Analytics**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**SEO & Marketing**
+
+![Technical SEO](https://img.shields.io/badge/Technical%20SEO-FF6C37?style=flat-square&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-0D96F2?style=flat-square&logoColor=white)
+
+---
+
+### `> system-design --knowledge`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                      LLD  (Low-Level)                       │
+│  ● SOLID Principles          ● Design Patterns              │
+│  ● OOP — Abstraction, Encap, Polymorphism, Inheritance      │
+│  ● Class Diagrams & Entity Modeling                         │
+├─────────────────────────────────────────────────────────────┤
+│                      HLD  (High-Level)                      │
+│  ● Monolith vs Microservices ● Load Balancing               │
+│  ● Caching Strategies        ● DB Sharding & Replication    │
+│  ● Message Queues            ● Event-Driven Architecture    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `> projects --pinned`
+
+<!-- ── PROJECT 1 ──────────────────────────────────────────── -->
+#### 📌 [Project Name](https://github.com/UserAkku/repo)
+> One-line pitch for what this does and why it matters
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind`
+
+- What problem it solves & what's interesting about the implementation
+
+<!-- ── PROJECT 2 ──────────────────────────────────────────── -->
+#### 📌 [Project Name](https://github.com/UserAkku/repo)
+> One-line pitch
+
+`Node.js` `MongoDB` `LangChain` `RAG` `Python`
+
+- What problem it solves & what's interesting about the implementation
+
+<!-- ── PROJECT 3 ──────────────────────────────────────────── -->
+#### 📌 [Project Name](https://github.com/UserAkku/repo)
+> One-line pitch
+
+`React` `Express` `MongoDB` `Tailwind`
+
+- What problem it solves & what's interesting about the implementation
+
+<!-- ── PROJECT 4 ──────────────────────────────────────────── -->
+#### 📌 [Project Name](https://github.com/UserAkku/repo)
+> One-line pitch
+
+`n8n` `LangGraph` `Agentic AI` `Python`
+
+- What problem it solves & what's interesting about the implementation
+
+---
+
+### `> stats`
+
 <div align="center">
-<br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&include_all_commits=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UserAkku&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" height="160"/>
+
+</div>
+
+---
+
+### `> currently`
+
+```js
+while (alive) {
+  grind("DSA");                     // going deep, no shortcuts
+  explore("System Design");         // LLD → HLD → distributed systems
+  build("random ideas");            // ship first, polish later
+  learn("Web3");                    // trying to actually understand it, not just hype
+  tinker("Agentic AI workflows");   // LangGraph, RAG, n8n automations
+}
 ```
-"most people wait for the right moment.
- i just start building."
-```
 
-<br/>
+---
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=000000&height=60&section=footer&reversal=true)
+<div align="center">
+
+*open to interesting problems — full stack, backend, or AI-flavored*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
