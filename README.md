@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a1a2e,70:16213e,100:0f3460&height=220&section=header&text=Akhilesh%20Kumar&fontSize=52&fontColor=e94560&fontAlignY=38&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20System%20Thinker&descAlignY=60&descSize=17&descColor=a8b2d8" width="100%"/>
+[![Holopin Badges](https://holopin.me/userakku)](https://holopin.io/@userakku)
 
 </div>
 
@@ -117,67 +117,15 @@ I'm a full-stack developer who doesn't just write code — I think about **why**
 
 ---
 
-### `> projects --pinned`
-
-<!-- ── PROJECT 1 ──────────────────────────────────────────── -->
-#### 📌 [Project Name](https://github.com/UserAkku/repo)
-> One-line pitch for what this does and why it matters
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind`
-
-- What problem it solves & what's interesting about the implementation
-
-<!-- ── PROJECT 2 ──────────────────────────────────────────── -->
-#### 📌 [Project Name](https://github.com/UserAkku/repo)
-> One-line pitch
-
-`Node.js` `MongoDB` `LangChain` `RAG` `Python`
-
-- What problem it solves & what's interesting about the implementation
-
-<!-- ── PROJECT 3 ──────────────────────────────────────────── -->
-#### 📌 [Project Name](https://github.com/UserAkku/repo)
-> One-line pitch
-
-`React` `Express` `MongoDB` `Tailwind`
-
-- What problem it solves & what's interesting about the implementation
-
-<!-- ── PROJECT 4 ──────────────────────────────────────────── -->
-#### 📌 [Project Name](https://github.com/UserAkku/repo)
-> One-line pitch
-
-`n8n` `LangGraph` `Agentic AI` `Python`
-
-- What problem it solves & what's interesting about the implementation
-
----
-
-### `> stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" height="160"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UserAkku&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" height="160"/>
-
-</div>
-
----
 
 ### `> currently`
 
 ```js
 while (alive) {
-  grind("DSA");                     // going deep, no shortcuts
   explore("System Design");         // LLD → HLD → distributed systems
   build("random ideas");            // ship first, polish later
   learn("Web3");                    // trying to actually understand it, not just hype
-  tinker("Agentic AI workflows");   // LangGraph, RAG, n8n automations
+  tinker("Agentic AI workflows");   // LangGraph, RAG, Agentic ai automations
 }
 ```
 
@@ -186,7 +134,5 @@ while (alive) {
 <div align="center">
 
 *open to interesting problems — full stack, backend, or AI-flavored*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
