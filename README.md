@@ -31,7 +31,7 @@ I'm a full-stack developer who doesn't just write code — I think about **why**
 - 📊 Can turn raw data into insights — **Tableau, Looker Studio, Excel**
 - 🔍 Understand both the **tech and business side** — digital marketing, technical SEO, growth
 - ⛓️ Exploring **Web3** — trying to actually understand it, not just the hype
-- 🧠 Currently going deep on **DSA + System Design** and building projects on whatever idea hits me
+- 🧠 Currently going deep on **Backend & System Design** and building projects on whatever idea hits me
 
 ---
 
