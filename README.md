@@ -1,22 +1,28 @@
-[![An image of @userakku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/userakku)](https://holopin.io/@userakku)
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!--              AKHILESH KUMAR — GitHub README             -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a0a1a,60:050520,100:000000&height=280&section=header&text=Akhilesh%20Kumar&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=I%20build%20things%20that%20think.%20Ship%20things%20that%20scale.&descAlignY=65&descSize=17&descColor=4ade80&stroke=4ade80&strokeWidth=2&animation=twinkling" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:0f0a00,100:1a1000&height=200&section=header&text=AKHILESH%20KUMAR&fontSize=65&fontColor=f59e0b&fontAlignY=70&fontAlign=75&desc=I%20build%20things%20that%20think.&descFontSize=18&descFontColor=78716c&descAlign=72&descAlignY=88&rotate=-5" width="100%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/akhilesh-kumar-736794313/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=F59E0B&center=true&vCenter=true&width=650&lines=Full+Stack+%E2%86%92+Next.js+%7C+MERN+%7C+TypeScript;AI+Builder+%E2%86%92+RAG+%7C+LangGraph+%7C+Agents;Automator+%E2%86%92+n8n+%7C+Python+%7C+Pipelines;Analyst+%E2%86%92+Tableau+%7C+Looker+%7C+SQL;Marketeer+%E2%86%92+Technical+SEO+%7C+Growth;Currently+%E2%86%92+Building+things+no+one+asked+for+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/akhilesh-kumar-736794313/"><img src="https://img.shields.io/badge/LinkedIn-f59e0b?style=for-the-badge&logo=linkedin&logoColor=000"/></a>
 &nbsp;
-<a href="https://github.com/UserAkku">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/UserAkku"><img src="https://img.shields.io/badge/GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=000"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=UserAkku&style=for-the-badge&color=4ade80&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=UserAkku&style=for-the-badge&color=f59e0b&labelColor=000&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Full+Stack+Dev+%F0%9F%9A%80;MERN+%7C+Next.js+%7C+TypeScript;Agentic+AI+%7C+RAG+%7C+LangGraph;n8n+Automations+%7C+Python;Technical+SEO+%7C+Digital+Marketing;Building+ideas+nobody+asked+for+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![An image of @userakku's Holopin badges](https://holopin.me/userakku)](https://holopin.io/@userakku)
 
 </div>
 
@@ -24,233 +30,240 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4ade80&text_color=94a3b8&icon_color=4ade80&bg_color=0d0d0d"/>
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║         WHO AM I            ║  -->
+<!--  ╚══════════════════════════════╝  -->
 
-### `$ cat about.txt`
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```
-name    :  Akhilesh Kumar
-role    :  Full Stack Dev + AI builder
-exp     :  6mo @ Nocage (formerly BridgeIn)
-range   :  Code → AI Agents → SEO → Marketing
-vibe    :  too many ideas, not enough hours
-status  :  always building something
-web3    :  curious. watching. learning.
-```
+### `{ about_me }`
+
+Not just another dev with a portfolio.
+
+I'm someone who builds **fullstack products**, wires up **AI agents that actually work**, automates workflows with **n8n**, reads data in **Tableau & Looker Studio**, understands **what users want** from a growth & SEO lens — and ties all of it together into something that *ships*.
+
+6 months at **Nocage** taught me one thing most devs miss early on:
+
+> *The best code solves a business problem. Everything else is just syntax.*
+
+Currently obsessed with:
+- Agentic AI systems that don't hallucinate
+- Building ideas fast and figuring out what sticks
+- Understanding Web3 from first principles
+- System design that won't collapse at 10x traffic
 
 <br clear="right"/>
 
 ---
 
-## ⚡ The Arsenal
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║           ARSENAL           ║  -->
+<!--  ╚══════════════════════════════╝  -->
+
+### `{ arsenal }`
+
+<div align="center">
+
+**— web & frontend —**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark&perline=7"/>
+
+**— backend & databases —**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,python&theme=dark&perline=6"/>
+
+**— AI · automation · data —**
+
+<img src="https://skillicons.dev/icons?i=langchain,pytorch,figma,linux,git,github&theme=dark&perline=6"/>
+
+`LangChain` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `RAG Pipelines` &nbsp;·&nbsp; `Agentic AI` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Tableau` &nbsp;·&nbsp; `Looker Studio`
+
+**— craft beyond code —**
+
+`Technical SEO` &nbsp;·&nbsp; `Digital Marketing` &nbsp;·&nbsp; `Competitor Analysis` &nbsp;·&nbsp; `Growth Research` &nbsp;·&nbsp; `UX Thinking`
+
+</div>
+
+---
+
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║           WORK              ║  -->
+<!--  ╚══════════════════════════════╝  -->
+
+### `{ work }`
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td>
 
-**🌐 Web & Fullstack**
 ```
-Next.js       ████████████ 
-React         ████████████ 
-TypeScript    ███████████░ 
-Node.js       ███████████░ 
-Express.js    ██████████░░ 
-Tailwind CSS  ████████████ 
-JavaScript    ████████████ 
-```
-
-</td>
-<td valign="top" width="33%">
-
-**🗄️ Data & Databases**
-```
-MongoDB       ████████████ 
-PostgreSQL    ██████████░░ 
-Prisma ORM    ██████████░░ 
-Mongoose      ████████████ 
-Excel         ███████████░ 
-Tableau       █████████░░░ 
-Looker Studio █████████░░░ 
-```
-
-</td>
-<td valign="top" width="33%">
-
-**🤖 AI / Automation**
-```
-LangChain     ██████████░░ 
-LangGraph     █████████░░░ 
-RAG Pipelines ██████████░░ 
-Agentic AI    █████████░░░ 
-n8n           ██████████░░ 
-Python        ██████████░░ 
+  ┌─────────────────────────────────────────────────────┐
+  │  🏢  Nocage  (formerly BridgeIn)                    │
+  │  Role  →  Full Stack Developer Intern               │
+  │  Span  →  6 months  |  Production. Real users.      │
+  └─────────────────────────────────────────────────────┘
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-</div>
-
----
-
-## 💼 Where I Shipped Real Stuff
-
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=4ade80&text_color=94a3b8&bg_color=0d0d0d"/>
-
-### 🏢 Nocage *(formerly BridgeIn)*
-**Full Stack Developer Intern** &nbsp;·&nbsp; `6 months`
-
-> *Walked in as a dev. Walked out thinking like a product person.*
-
-- Shipped **production pages** in Next.js + TypeScript — real traffic, real users
-- Owned **Technical SEO** end-to-end: site architecture, Core Web Vitals, crawlability, meta strategy
-- Pushed **UI/UX** quality hard — details that users feel but don't notice
-- Contributed to live **feature rollouts** with proper version control & review cycles
-- Crossed into **growth work**: competitor analysis, marketing research, user behaviour
-- Learned that code without product thinking ships nothing
-
-<br clear="right"/>
-
----
-
-## 🚀 Featured Projects
-
-> *These speak louder than any bullet point.*
+<details>
+<summary><b>▶ &nbsp; What I actually did there (click to expand)</b></summary>
 
 <br/>
+
+**On the tech side:**
+- Built & maintained production pages in **Next.js + TypeScript** — not sandbox, real traffic
+- Deep-dived into **Technical SEO**: site architecture, Core Web Vitals, crawl budgets, metadata strategy
+- Cared about pixels — pushed for **UI/UX quality** that users feel but never consciously notice
+- Shipped **feature updates** in a live codebase with proper PR reviews, branches, discipline
+
+**Beyond the code:**
+- Researched **growth & marketing strategies** — go-to-market thinking, content positioning
+- Ran structured **competitor analysis** to understand market gaps
+- Studied **user behavior & market needs** — not just "what do users click" but *why*
+
+*Walked in a developer. Walked out a product thinker.*
+
+</details>
+
+---
+
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║          PROJECTS           ║  -->
+<!--  ╚══════════════════════════════╝  -->
+
+### `{ projects }`
+
+> *The work speaks. Go check the pinned repos below 👇*
 
 <div align="center">
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🔗 [Project Name](https://github.com/UserAkku/repo-1)
-> *What problem does this solve? One punchy line.*
-
-**Stack:** `Next.js` · `Node.js` · `MongoDB` · `TypeScript`
-
-✦ Feature one that makes this interesting  
-✦ Feature two — what's the cool part?  
-✦ Live: [link](#) &nbsp;|&nbsp; Demo: [video](#)
+**🔴 &nbsp;[Project One](https://github.com/UserAkku/repo-1)**
+```
+→ What does it solve?
+→ Who is it for?
+```
+`Next.js` `TypeScript` `MongoDB` `Tailwind`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔗 [Project Name](https://github.com/UserAkku/repo-2)
-> *What problem does this solve? One punchy line.*
-
-**Stack:** `LangChain` · `RAG` · `Python` · `n8n`
-
-✦ Feature one  
-✦ Feature two  
-✦ Live: [link](#) &nbsp;|&nbsp; Demo: [video](#)
+**🟡 &nbsp;[Project Two](https://github.com/UserAkku/repo-2)**
+```
+→ What does it solve?
+→ Who is it for?
+```
+`LangChain` `RAG` `Python` `n8n`
 
 </td>
-
 </tr>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🔗 [Project Name](https://github.com/UserAkku/repo-3)
-> *What problem does this solve? One punchy line.*
-
-**Stack:** `React` · `Express` · `PostgreSQL` · `Prisma`
-
-✦ Feature one  
-✦ Feature two  
-✦ Live: [link](#) &nbsp;|&nbsp; Demo: [video](#)
+**🟢 &nbsp;[Project Three](https://github.com/UserAkku/repo-3)**
+```
+→ What does it solve?
+→ Who is it for?
+```
+`React` `Node.js` `PostgreSQL` `Prisma`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔗 [Project Name](https://github.com/UserAkku/repo-4)
-> *What problem does this solve? One punchy line.*
-
-**Stack:** `Next.js` · `LangGraph` · `MongoDB` · `Tailwind`
-
-✦ Feature one  
-✦ Feature two  
-✦ Live: [link](#) &nbsp;|&nbsp; Demo: [video](#)
+**🔵 &nbsp;[Project Four](https://github.com/UserAkku/repo-4)**
+```
+→ What does it solve?
+→ Who is it for?
+```
+`LangGraph` `Agents` `Express` `MongoDB`
 
 </td>
-
 </tr>
 </table>
 </div>
 
 ---
 
-## 🏗️ How I Think About Systems
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║       SYSTEM DESIGN         ║  -->
+<!--  ╚══════════════════════════════╝  -->
 
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                     System Design Brain                      │
-  │                                                              │
-  │  LLD  →  SOLID · Design Patterns · OOP · Clean Interfaces   │
-  │                                                              │
-  │  HLD  →  Scale · Cache · Queue · Shard · Replicate · CDN    │
-  │                                                              │
-  │  AI   →  RAG · Agents · Orchestration · Memory · Tools      │
-  └─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UserAkku&bg_color=0d0d0d&color=4ade80&line=4ade80&point=ffffff&area=true&hide_border=true&area_color=0a2e1a" width="95%"/>
+<details>
+<summary><b>🏗️ &nbsp; System Design Brain (click to open)</b></summary>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=UserAkku&theme=dark&hide_border=true&background=0d0d0d&stroke=4ade80&ring=4ade80&fire=f97316&currStreakLabel=4ade80&sideLabels=94a3b8&dates=64748b" height="150"/>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    HOW I THINK ABOUT SYSTEMS                  ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  LLD  ──  SOLID Principles                                    ║
+║        ──  Design Patterns (Factory, Observer, Strategy...)   ║
+║        ──  OOP that actually models the real world            ║
+║        ──  Clean interfaces. Testable code.                   ║
+║                                                               ║
+║  HLD  ──  When to scale. When NOT to.                         ║
+║        ──  Load balancing · Caching (Redis) · CDNs            ║
+║        ──  DB sharding · Replication · Indexing               ║
+║        ──  Message queues · Event-driven patterns             ║
+║                                                               ║
+║  AI   ──  RAG architecture · Vector DBs · Chunking            ║
+║   SYS  ──  Agent orchestration · Memory · Tool use            ║
+║        ──  LangGraph flows · Multi-agent patterns             ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</details>
+
+---
+
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║           STATS             ║  -->
+<!--  ╚══════════════════════════════╝  -->
+
+### `{ numbers }`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UserAkku&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=f59e0b&text_color=a3a3a3&icon_color=f59e0b&bg_color=0a0a0a&ring_color=f59e0b" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UserAkku&layout=compact&theme=dark&hide_border=true&title_color=f59e0b&text_color=a3a3a3&bg_color=0a0a0a" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=UserAkku&theme=dark&hide_border=true&background=0a0a0a&stroke=f59e0b&ring=f59e0b&fire=ef4444&currStreakLabel=f59e0b&sideLabels=a3a3a3&dates=52525b" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UserAkku&bg_color=0a0a0a&color=f59e0b&line=f59e0b&point=ef4444&area=true&hide_border=true&area_color=1a0f00" width="94%"/>
 
 </div>
 
 ---
 
-## 🌐 What's Next
-
-```js
-const currentFocus = {
-  building  : "new ideas → prototype → ship → repeat",
-  exploring : "Web3 — early days, eyes wide open",
-  applying  : "AI agents + automation to real problems",
-  reading   : "how systems break at scale",
-};
-```
-
----
+<!--  ╔══════════════════════════════╗  -->
+<!--  ║           FOOTER            ║  -->
+<!--  ╚══════════════════════════════╝  -->
 
 <div align="center">
 
 <br/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+```
+"Most people wait for the right moment.
+ I just start building and figure it out."
+                                — probably me, 2am
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:050520,100:0a0a1a&height=120&section=footer&text=Let's%20Build%20Something%20Real&fontSize=20&fontColor=4ade80&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1000,50:0f0a00,100:000000&height=150&section=footer&text=Let's%20build%20something%20real.&fontSize=28&fontColor=f59e0b&fontAlign=40&fontAlignY=70&rotate=5" width="100%"/>
 
 </div>
